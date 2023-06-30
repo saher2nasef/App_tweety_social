@@ -1,0 +1,74 @@
+{
+  "NavBar": {
+    "Btns": {
+      "Home": "Home",
+      "Posts": "Posts",
+      "Profile": "Profile",
+      "SignOut": "SignOut",
+      "SignUp": "Sign Up",
+      "SignIn": "Sign In",
+      "Friendship": "Friendship",
+      "FriendshipRequests": "Friendship Requests",
+      "YourFriends": "Your Friends"
+    }
+  },
+  "Profile": {
+    "Titles": {
+      "UserName": "User Name",
+      "Email": "Email",
+      "CreationDate": "Creation Date",
+      "Password": "Password",
+      "YourLanguage": "Your Language",
+      "YourAppearance": "Your Appearance",
+      "Dark": "Dark",
+      "Light": "Light"
+    },
+    "Btns": {
+      "BtnChangeImage": "Change Your Image",
+      "BtnUploadImage": "Upload Image",
+      "BtnChange": "Change"
+    }
+  },
+  "SignIn": {
+    "Titles": {
+      "Title": "Sign In In Here",
+      "Email": "Email",
+      "Password": "Password",
+      "Message": "Logged in successfully"
+    },
+    "Btns": {
+      "BtnSignIn": "Sign In"
+    }
+  },
+  "SignUp": {
+    "Titles": {
+      "Title": "Sign Up In Here",
+      "UserName": "User Name",
+      "Email": "Email",
+      "Password": "Password",
+      "Message": "Account successfully created"
+    },
+    "Btns": {
+      "BtnSignUp": "Sign Up"
+    }
+  },
+  "FriendShip": {
+    "InputSaerch": "Your Search",
+    "BtnFriendRquest": "Rquest",
+    "BtnCancelFriendship": "Cancel",
+    "BtnAcceptFriendship": "Accept",
+    "BtnDisacceptFriendship": "Disaccept",
+    "TitleYourFriends": "Your Friends",
+    "TitleYourFriendshipRequests": "Your Friendship Requests",
+    "MessageWaringFriends1": "There Are No Friend Requests",
+    "MessageWaringFriends2": "There Are No Friends"
+  },
+  "Posts": {
+    "TitlePosts": "Posts",
+    "BtnDelete": "Delete",
+    "BtnEdit": "Edit",
+    "TextOnTextArea": "what's on your mind",
+    "BtnShowMore": "Show More",
+    "BtnHide": "Hide"
+  }
+}

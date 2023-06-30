@@ -1,0 +1,74 @@
+{
+  "NavBar": {
+    "Btns": {
+      "Home": "الرئيسية",
+      "Posts": "المنشورات",
+      "Profile": "حسابك",
+      "SignOut": "تسجيل الخروج",
+      "SignUp": "انشاء حساب",
+      "SignIn": "تسجيل الدخول",
+      "Friendship": "الصداقة",
+      "FriendshipRequests": "طلبات الصداقة",
+      "YourFriends": "اصدقائك"
+    }
+  },
+  "Profile": {
+    "Titles": {
+      "UserName": "الاسم",
+      "Email": "البريد الالكتروني",
+      "CreationDate": "تاريخ الانشاء",
+      "Password": "الرقم السري",
+      "YourLanguage": "لغتك",
+      "YourAppearance": "مظهرك",
+      "Dark": "مظلم",
+      "Light": "ضوء"
+    },
+    "Btns": {
+      "BtnChangeImage": "تغير صورتك",
+      "BtnUploadImage": "رفع صورة",
+      "BtnChange": "تغير"
+    }
+  },
+  "SignIn": {
+    "Titles": {
+      "Title": "تسجيل الدخول هنا",
+      "Email": "البريد الالكتروني",
+      "Password": "الرقم السري",
+      "Message": "تم تسجيل الدخول بنجاح"
+    },
+    "Btns": {
+      "BtnSignIn": "تسجيل الدخول"
+    }
+  },
+  "SignUp": {
+    "Titles": {
+      "Title": "سجل هنا",
+      "UserName": "الاسم",
+      "Email": "البريد الالكتروني",
+      "Password": "الرقم السري",
+      "Message": "تم إنشاء الحساب بنجاح"
+    },
+    "Btns": {
+      "BtnSignUp": "انشاء حساب"
+    }
+  },
+  "FriendShip": {
+    "InputSaerch": "بحثك",
+    "BtnFriendRquest": "طلب الصداقة",
+    "BtnCancelFriendship": "الغاء الصداقة",
+    "BtnAcceptFriendship": "قبول الصداقة",
+    "BtnDisacceptFriendship": "رفض الصداقة",
+    "TitleYourFriends": "أصدقائك",
+    "TitleYourFriendshipRequests": "طلبات الصداقة",
+    "MessageWaringFriends1": "لا توجد طلبات صداقة",
+    "MessageWaringFriends2": "لا يوجد أصدقاء"
+  },
+  "Posts": {
+    "TitlePosts": "منشورت",
+    "BtnDelete": "حذف",
+    "BtnEdit": "تعديل",
+    "TextOnTextArea": "ما الذي يدور في ذهنك",
+    "BtnShowMore": "عرض المزيد",
+    "BtnHide": "اخفاء"
+  }
+}
